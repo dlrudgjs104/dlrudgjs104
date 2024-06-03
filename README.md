@@ -18,4 +18,6 @@
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚀 Algorithm Study
+![Algorithm Study](https://img.shields.io/badge/Algorithm_Study-58CC02?style=for-the-badge&logo=BookStack&logoColor=white)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
