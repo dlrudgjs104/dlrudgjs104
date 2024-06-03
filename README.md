@@ -3,7 +3,7 @@
 ## 🎓 Education
 - 조선대학교 (정보통신공학과)
 - NHN Academy
-- 
+![nhn academy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=NHNAcademy&logoColor=303347)
 ## 💼 Certifications
 - ![정보보안기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-Information%20Security%20Engineer-blue)
 - ![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-Information%20Processing%20Engineer-blue)
