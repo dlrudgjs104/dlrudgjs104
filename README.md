@@ -5,6 +5,8 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
+        <a>조선대학교 졸업</a>a
+        <a>NHN Academy 진행중</a>a
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
         <img src="https://img.shields.io/badge/NHN_Academy-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
 </div>
