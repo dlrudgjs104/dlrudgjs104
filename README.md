@@ -15,7 +15,7 @@
 - ![Java](https://img.shields.io/badge/Java-프로그래밍%20언어-red)
 - ![Java Spring](https://img.shields.io/badge/Java%20Spring-웹%20프레임워크-brightgreen)
 - ![DB](https://img.shields.io/badge/DB-데이터베이스-yellow)
-![Python](https://img.shields.io/badge/Python-Programming%20Language-blue)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🚀 GitHub Profile
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
