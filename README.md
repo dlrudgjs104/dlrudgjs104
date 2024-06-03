@@ -12,10 +12,10 @@
 - ![워드프로세서](https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-Word%20Processor-blue)
 
 ## 💻 Tech Stack
-- ![Java](https://img.shields.io/badge/Java-프로그래밍%20언어-red)
-- ![Java Spring](https://img.shields.io/badge/Java%20Spring-웹%20프레임워크-brightgreen)
-- ![DB](https://img.shields.io/badge/DB-데이터베이스-yellow)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚀 GitHub Profile
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
