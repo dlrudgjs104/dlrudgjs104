@@ -1,7 +1,8 @@
 # WELCOME!
 
 ## 🎓 Education
-- ![조선대학교 (정보통신공학과)](https://img.shields.io/badge/조선대학교_(정보통신공학과)-3693F3?style=for-the-badge)
+- ![조선대학교 (정보통신공학과)](https://img.shields.io/badge/조선대학교(정보통신공학과)-%231904DA.svg?style=for-the-badge)
+- ![조선대학교 (정보통신공학과)](https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge)
 - ![nhn academy](https://img.shields.io/badge/NHN_Academy-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 ## 💼 Certifications
 - ![정보보안기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-Information%20Security%20Engineer-blue)
@@ -16,5 +17,5 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 GitHub Profile
+## 🚀 Algorithm Study
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
