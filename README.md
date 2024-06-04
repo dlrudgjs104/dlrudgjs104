@@ -34,7 +34,8 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Algorithm Study </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
+        [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
     </div>
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104)](https://solved.ac/dlrudgjs104)
+
