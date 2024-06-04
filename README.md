@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/네트워크관리사_2급-232F3E?style=for-the-badge">
         <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-232F3E?style=for-the-badge">
         <img src="https://img.shields.io/badge/워드프로세서-232F3E?style=for-the-badge">
+    </div>
 </div>
 
 <div align= "center">
