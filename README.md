@@ -55,6 +55,9 @@
         <a href="https://github.com/nhnacademy-be6-5ritang">
             <img src="https://img.shields.io/badge/온라인 서점 프로젝트 Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white">
         </a>
+        <a href="https://github.com/eventor-site">
+            <img src="https://img.shields.io/badge/이벤터 프로젝트 Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+        </a>
     </div>
 </div>
 
