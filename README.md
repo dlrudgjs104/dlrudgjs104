@@ -51,7 +51,7 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center"> 
+    <div style="margin: 0 auto;"> 
         <a href="https://github.com/nhnacademy-be6-5ritang">
             <img src="https://img.shields.io/badge/온라인 서점 프로젝트 Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white">
         </a>
