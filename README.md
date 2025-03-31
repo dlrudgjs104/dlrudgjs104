@@ -49,7 +49,7 @@
     </div>
 </div>
 
-<div align="center">
+<div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> <br> 
     <div style="margin: 0 auto;"> 
         <a href="https://github.com/nhnacademy-be6-5ritang">
