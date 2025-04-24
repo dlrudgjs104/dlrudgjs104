@@ -3,23 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
-  <div align="center">
-    <p>조회수: <span id="hitCount" class="hit-count">123</span></p>
-  </div>
-
-  <script>
-
-    document.addEventListener("DOMContentLoaded", () => {
-      const hitEl = document.getElementById("hitCount");
-      let current = parseInt(hitEl.textContent);
-
-      // 일시적으로 1 증가된 것처럼 보이게 (사용자 경험용)
-      setTimeout(() => {
-        hitEl.textContent = current + 1;
-      }, 500);
-    });
-  </script>
-
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
