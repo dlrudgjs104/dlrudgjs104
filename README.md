@@ -7,8 +7,8 @@
     <p>조회수: <span id="hitCount" class="hit-count">123</span></p>
   </div>
 
-    <script>
-    // 조회수가 올라가는 것처럼 보이게 애니메이션 효과
+  <script>
+
     document.addEventListener("DOMContentLoaded", () => {
       const hitEl = document.getElementById("hitCount");
       let current = parseInt(hitEl.textContent);
