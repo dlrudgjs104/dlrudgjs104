@@ -1,10 +1,24 @@
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div align= "center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlrudgjs104&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+  <div align="center">
+    <p>조회수: <span id="hitCount" class="hit-count">123</span></p>
+  </div>
+
+    <script>
+    // 조회수가 올라가는 것처럼 보이게 애니메이션 효과
+    document.addEventListener("DOMContentLoaded", () => {
+      const hitEl = document.getElementById("hitCount");
+      let current = parseInt(hitEl.textContent);
+
+      // 일시적으로 1 증가된 것처럼 보이게 (사용자 경험용)
+      setTimeout(() => {
+        hitEl.textContent = current + 1;
+      }, 500);
+    });
+  </script>
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
