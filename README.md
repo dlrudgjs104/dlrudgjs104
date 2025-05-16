@@ -27,7 +27,7 @@
 </div>
 
 <!-- 💻 Languages & Frameworks -->
-<div>
+<div align= "center">
     <h3>💻 Languages & Frameworks</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -35,7 +35,7 @@
 </div>
 
 <!-- 🛠️ DevOps & Cloud -->
-<div>
+<div align= "center">
     <h3>🛠️ DevOps & Cloud</h3>
     <img src="https://img.shields.io/badge/On_Premise-555555?style=for-the-badge&logo=serverfault&logoColor=white">
     <img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white">
@@ -44,7 +44,7 @@
 </div>
 
 <!-- 🛢️ Databases -->
-<div>
+<div align= "center">
     <h3>🛢️ Databases</h3>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -52,14 +52,13 @@
 </div>
 
 <!-- 🧰 Tools & Build Systems -->
-<div>
+<div align= "center">
     <h3>🧰 Tools & Build Systems</h3>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 </div>
-
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📈 GitHub Stats & Solved.ac Rank </h2> <br> 
