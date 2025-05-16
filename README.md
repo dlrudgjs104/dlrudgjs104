@@ -40,7 +40,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📈 GitHub Stats & Solved.ac Rank </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=dlrudgjs104&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dlrudgjs104&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
         <a href="https://solved.ac/dlrudgjs104">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104" alt="Solved.ac 프로필" />
         </a>
