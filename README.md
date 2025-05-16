@@ -39,7 +39,7 @@
 <!-- 🛠️ DevOps & Cloud -->
 <div align= "center">
     <h3>🛠️ DevOps & Cloud</h3>
-    <img src="https://img.shields.io/badge/On--Premise-555555?style=flat&logo=serverfault&logoColor=white">
+    <img src="https://img.shields.io/badge/On--Premise-555555?style=for-the-badge&logo=serverfault&logoColor=white">
     <img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
