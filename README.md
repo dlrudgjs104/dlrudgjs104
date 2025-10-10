@@ -12,6 +12,7 @@
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
         <span>➜</span>
         <img src="https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png" alt="MarkAny" style="width: 100px; height: auto; vertical-align: middle;">
+        <img src="https://github.com/user-attachments/assets/b4279b89-b27c-4cda-a2c1-516b9e3f9302" alt="MarkAny" style="width: 100px; height: auto; vertical-align: middle;">
     </div>
 </div>
 
