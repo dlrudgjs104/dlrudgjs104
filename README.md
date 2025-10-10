@@ -8,6 +8,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
+        <img src="https://img.shields.io/badge/MarkAny-FF6F00?style=for-the-badge&logo=markany&logoColor=white" alt="MarkAny">
     </div>
 </div>
 
@@ -33,13 +34,16 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/RESTful_API-005C84?style=for-the-badge&logo=restapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf 
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+    <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <!-- 🛠️ DevOps & Cloud -->
 <div align= "center">
     <h3>🛠️ DevOps & Cloud</h3>
     <img src="https://img.shields.io/badge/On--Premise-555555?style=for-the-badge&logo=serverfault&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
@@ -49,6 +53,7 @@
 <!-- 🛢️ Databases -->
 <div align= "center">
     <h3>🛢️ Databases</h3>
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
