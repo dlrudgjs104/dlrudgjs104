@@ -14,6 +14,32 @@
     </div>
 </div>
 
+<div align="center">
+    <!-- 대학교 배지 + 학과 -->
+    <span style="display: inline-block; vertical-align: middle;">
+        <img src="https://github.com/user-attachments/assets/c74ae58a-a1d9-4072-80d3-01265d8ac6d2" 
+             alt="조선대학교" 
+             style="width: 100px; height: auto; vertical-align: middle;">
+        <span style="vertical-align: middle; margin-left: 8px;">(정보통신공학과)</span>
+    </span>
+    <!-- 화살표 -->
+    <span style="display: inline-block; vertical-align: middle; font-size: 24px; margin: 0 8px;">➜</span>
+    <!-- 부트캠프 배지 -->
+    <span style="display: inline-block; vertical-align: middle;">
+        <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white" 
+             style="height: 40px; vertical-align: middle;">
+    </span>
+    <!-- 화살표 -->
+    <span style="display: inline-block; vertical-align: middle; font-size: 24px; margin: 0 8px;">➜</span>
+    <!-- 회사 로고 -->
+    <span style="display: inline-block; vertical-align: middle;">
+        <img src="https://github.com/user-attachments/assets/b4279b89-b27c-4cda-a2c1-516b9e3f9302" 
+             alt="MarkAny" 
+             style="width: 100px; height: auto; vertical-align: middle;">
+    </span>
+</div>
+
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💼 Certifications </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
