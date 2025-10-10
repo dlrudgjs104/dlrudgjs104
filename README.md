@@ -1,14 +1,16 @@
 
 <div align= "center">
-    🌱<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Career Timeline </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
+        <span style="font-size: 20px;">➡️</span>
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
-        <img src="https://img.shields.io/badge/MarkAny-FF6F00?style=for-the-badge&logo=markany&logoColor=white" alt="MarkAny">
+        <span style="font-size: 20px;">➡️</span>
+        <img src="https://en.markany.com/?style=for-the-badge&logo=markany&logoColor=white" alt="MarkAny">
     </div>
 </div>
 
