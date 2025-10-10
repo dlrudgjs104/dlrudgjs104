@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
         <span style="font-size: 22px;">⮕</span>
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
-        <span style="font-size: 22px;">⮕</span>
+        <img src="https://img.shields.io/badge/→-gray?style=flat-square">
         <img src="https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png" alt="MarkAny" style="width: 100px; height: auto; vertical-align: middle;">
     </div>
 </div>
