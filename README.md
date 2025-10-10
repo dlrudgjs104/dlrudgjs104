@@ -9,8 +9,8 @@
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
         <span style="font-size: 20px;">➡️</span>
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
-        <span>➡️</span>
-        <img src="[https://en.markany.com/](https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png)?style=for-the-badge&logo=markany&logoColor=white" alt="MarkAny">
+        ➡️
+        <img src="https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png?style=for-the-badge&logo=markany&logoColor=white" alt="MarkAny">
     </div>
 </div>
 
