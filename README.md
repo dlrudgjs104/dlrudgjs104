@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    🌱<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div align= "center">
@@ -41,7 +41,7 @@
 
 <!-- 🛠️ DevOps & Cloud -->
 <div align= "center">
-    <h3>🛠️ DevOps & Cloud</h3>
+    <h3>🔧 DevOps & Cloud</h3>
     <img src="https://img.shields.io/badge/On--Premise-555555?style=for-the-badge&logo=serverfault&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white">
