@@ -14,6 +14,27 @@
     </div>
 </div>
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c74ae58a-a1d9-4072-80d3-01265d8ac6d2" 
+     alt="조선대학교" 
+     style="width: 100px; height: 40px; vertical-align: middle;"> 
+<span style="vertical-align: middle; margin-left: 8px;">(정보통신공학과)</span>
+
+<span style="vertical-align: middle; font-size: 24px; margin: 0 12px;">➜</span>
+
+<img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white" 
+     style="height: 40px; vertical-align: middle;">
+
+<span style="vertical-align: middle; font-size: 24px; margin: 0 12px;">➜</span>
+
+<img src="https://github.com/user-attachments/assets/b4279b89-b27c-4cda-a2c1-516b9e3f9302" 
+     alt="MarkAny" 
+     style="width: 100px; height: 40px; vertical-align: middle;">
+
+</div>
+
+
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💼 Certifications </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
