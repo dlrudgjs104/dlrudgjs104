@@ -6,7 +6,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Career Timeline </h2> <br> 
     <div style="margin: 0 auto; display: inline-flex; align-items: center; justify-content: center; gap: 8px;" align="center">
-        <img src="https://img.shields.io/badge/(정보통신공학과)-00BFFF?style=for-the-badge&logoColor=white&fontsize=18" alt="정보통신공학과" style="width: 100px; height: auto;">
+        <img src="https://img.shields.io/badge/(정보통신공학과)-00BFFF?style=for-the-badge&logo=Linode&logoColor=white">
         <span>➜</span>
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
         <span>➜</span>
