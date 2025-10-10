@@ -7,7 +7,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Career Timeline </h2> <br> 
     <div style="margin: 0 auto; display: inline-flex; align-items: center; justify-content: center; gap: 8px;" align="center">
         <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
-        <img src="https://www3.chosun.ac.kr/sites/chosun/masterSkin/chosun_JW_MS_K2WT001_M/images/logo.png" alt="조선대학교"><p>(정보통신공학과)</p>
+        <img src="https://www3.chosun.ac.kr/sites/chosun/masterSkin/chosun_JW_MS_K2WT001_M/images/logo.png" alt="조선대학교" style="width: 100px; height: auto; vertical-align: middle;> <p>(정보통신공학과)</p>
         <span>➜</span>
         <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
         <span>➜</span>
