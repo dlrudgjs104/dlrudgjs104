@@ -3,16 +3,23 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 Career Timeline </h2> <br> 
-    <div style="margin: 0 auto; display: inline-flex; align-items: center; justify-content: center; gap: 8px;" align="center">
-        <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge">
-        <span style="font-size: 100px;">></span>
-        <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
-        <span style="font-size: 100px;">➜</span>
-        <img src="https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png" alt="MarkAny" style="width: 100px; height: auto; vertical-align: middle;">
-    </div>
+<div align="center">
+    <!-- 대학교 -->
+    <img src="https://img.shields.io/badge/조선대학교(정보통신공학과)-3693F3?style=for-the-badge" 
+         style="height: 40px; vertical-align: middle;">
+    <!-- 화살표 -->
+    <span style="font-size: 24px; vertical-align: middle; margin: 0 8px;">➜</span>
+    <!-- 부트캠프 -->
+    <img src="https://img.shields.io/badge/NHN_Academy(6기)-00A95C?style=for-the-badge&logo=Linode&logoColor=white" 
+         style="height: 40px; vertical-align: middle;">
+    <!-- 화살표 -->
+    <span style="font-size: 24px; vertical-align: middle; margin: 0 8px;">➜</span>
+    <!-- 회사 -->
+    <img src="https://cdn.imweb.me/thumbnail/20240604/4a0743cb24de0.png" 
+         alt="MarkAny" 
+         style="height: 40px; vertical-align: middle;">
 </div>
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💼 Certifications </h2> <br> 
