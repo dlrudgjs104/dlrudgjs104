@@ -39,7 +39,6 @@
     <img src="https://img.shields.io/badge/RESTful_API-005C84?style=for-the-badge&logo=restapi&logoColor=white">
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
     <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </div>
 
 <!-- 🛠️ DevOps & Cloud -->
