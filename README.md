@@ -73,14 +73,14 @@
 
 </div>
 
-<div align= "center">
+<!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Solved.ac Rank </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <a href="https://solved.ac/dlrudgjs104">
             <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrudgjs104" alt="Solved.ac 프로필" />
         </a>
     </div>
-</div>
+</div> -->
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> <br> 
