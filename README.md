@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img src="https://img.shields.io/badge/Kiro-9B5DE5?style=for-the-badge&logo=amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-9B5DE5?style=for-the-badge&logo=amazon&logoColor=white">
 </div>
 
 <div align= "center">
