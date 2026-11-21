@@ -58,18 +58,30 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
     <td width="130" align="center"><b>Backend</b></td>
     <td><img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="30" /> <img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="30" /> <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" height="30" /> <img src="https://img.shields.io/badge/Thymeleaf-161b22?style=for-the-badge&logo=thymeleaf&logoColor=3fb950" height="30" /> <img src="https://img.shields.io/badge/JSP-161b22?style=for-the-badge&logo=openjdk&logoColor=58a6ff" height="30" /></td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="130" align="center"><b>Database</b></td>
     <td><img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" height="30" /> <img src="https://img.shields.io/badge/MariaDB-161b22?style=for-the-badge&logo=mariadb&logoColor=58a6ff" height="30" /> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" height="30" /> <img src="https://img.shields.io/badge/Elasticsearch-161b22?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" height="30" /></td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="130" align="center"><b>DevOps · Cloud</b></td>
     <td><img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="30" /> <img src="https://img.shields.io/badge/NHN%20Cloud-161b22?style=for-the-badge&logo=cloudflare&logoColor=00A95C" height="30" /> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="30" /> <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="30" /> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="30" /> <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" height="30" /> <img src="https://img.shields.io/badge/On--Premise-161b22?style=for-the-badge&logo=serverfault&logoColor=8b949e" height="30" /></td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="130" align="center"><b>Tools</b></td>
     <td><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" height="30" /> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" height="30" /> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-161b22?style=for-the-badge&logo=intellijidea&logoColor=e6edf3" height="30" /> <img src="https://img.shields.io/badge/Android%20Studio-161b22?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" height="30" /> <img src="https://img.shields.io/badge/Maven-161b22?style=for-the-badge&logo=apachemaven&logoColor=C71A36" height="30" /> <img src="https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=FF6C37" height="30" /> <img src="https://img.shields.io/badge/JMeter-161b22?style=for-the-badge&logo=apachejmeter&logoColor=D22128" height="30" /></td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="130" align="center"><b>AI</b></td>
     <td><img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=D97757" height="30" /> <img src="https://img.shields.io/badge/ChatGPT-161b22?style=for-the-badge&logo=openai&logoColor=74AA9C" height="30" /> <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="30" /> <img src="https://img.shields.io/badge/Kiro-161b22?style=for-the-badge&logo=amazon&logoColor=9B5DE5" height="30" /></td>
@@ -95,6 +107,9 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
       <br><br>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/eventor-site"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=110&section=header&text=Eventor&fontSize=36&fontColor=ffffff" width="100%" /></a>
