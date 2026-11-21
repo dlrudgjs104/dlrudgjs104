@@ -43,9 +43,12 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
 
 <div align="center">
 
-<p><img src="https://img.shields.io/badge/-%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-161b22?style=for-the-badge&labelColor=1f6feb&logo=hackthebox&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-161b22?style=for-the-badge&labelColor=8957e5&logo=checkmarx&logoColor=white" height="40" /></p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f6feb,100:0b3d91&height=150&section=header&text=%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engineer%20Information%20Security&descSize=26&descAlignY=72&descColor=ffffffcc" width="48%" alt="정보보안기사" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8957e5,100:4c1d95&height=150&section=header&text=%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engineer%20Information%20Processing&descSize=26&descAlignY=72&descColor=ffffffcc" width="48%" alt="정보처리기사" />
 
-<p><img src="https://img.shields.io/badge/-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-161b22?style=for-the-badge&labelColor=0891b2&logo=cisco&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-161b22?style=for-the-badge&labelColor=238636&logo=microsoftexcel&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-161b22?style=for-the-badge&labelColor=2b579a&logo=microsoftword&logoColor=white" height="40" /></p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:155e75&height=210&section=header&text=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Network%20Administrator&descSize=40&descAlignY=72&descColor=ffffffcc" width="31%" alt="네트워크관리사 2급" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:238636,100:14532d&height=210&section=header&text=%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Skills&descSize=40&descAlignY=72&descColor=ffffffcc" width="31%" alt="컴퓨터활용능력 1급" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2b579a,100:1e3a8a&height=210&section=header&text=%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Word%20Processor&descSize=40&descAlignY=72&descColor=ffffffcc" width="31%" alt="워드프로세서" />
 
 </div>
 
