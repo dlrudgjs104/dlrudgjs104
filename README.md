@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1f6feb&height=240&section=header&text=Gyung%20Heon&fontSize=64&fontColor=e6edf3&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20MarkAny&descSize=20&descAlignY=64&descColor=8b949e" width="100%" alt="header" />
 
 <a href="https://github.com/dlrudgjs104">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Spring+Boot+%C2%B7+REST+API+%C2%B7+Cloud+Infra;AI-assisted+Development+%C2%B7+Claude+%C2%B7+Gemini+%C2%B7+ChatGPT" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=AI+%C2%B7+Backend+%C2%B7+Frontend+%C2%B7+Cloud+%2F+DevOps" alt="typing" />
 </a>
 
 <br>
@@ -25,7 +25,7 @@ name:      이경헌 (Gyung Heon)
 role:      Backend Developer @ MarkAny
 education: 조선대학교 정보통신공학과
 bootcamp:  NHN Academy 6기
-focus:     Spring Boot · REST API · Cloud / DevOps · AI
+focus:     AI · Backend · Frontend · Cloud / DevOps
 ```
 
 </td>
@@ -39,89 +39,42 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
 
 <br>
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-BACKEND-1f6feb?style=flat-square" /><br>
-<img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful_API-005C84?style=flat-square&logo=restapi&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-DATABASE-1f6feb?style=flat-square" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch&theme=dark" /><br>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-DEVOPS_·_CLOUD-1f6feb?style=flat-square" /><br>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux&theme=dark" /><br>
-<img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/On--Premise-555555?style=flat-square&logo=serverfault&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-TOOLS-1f6feb?style=flat-square" /><br>
-<img src="https://skillicons.dev/icons?i=github,git,idea,androidstudio,maven,postman&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-AI-1f6feb?style=flat-square" /><br>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Kiro-9B5DE5?style=flat-square&logo=amazon&logoColor=white" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dlrudgjs104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrudgjs104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=dlrudgjs104&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlrudgjs104&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-
-</div>
-
-<br>
-
 ## 💼 Certifications
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white" height="42" />
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-8957e5?style=for-the-badge&logo=checkmarx&logoColor=white" height="42" />
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="42" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-238636?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="42" />
-    </td>
-    <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white" height="42" />
-    </td>
-  </tr>
-</table>
+<p><img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-8957e5?style=for-the-badge&logo=checkmarx&logoColor=white" height="46" /></p>
+
+<p><img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-238636?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white" height="46" /></p>
 
 </div>
+
+<br>
+
+## 🛠 Tech Stack
+
+<table width="100%">
+  <tr>
+    <td width="130" align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" /></td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28" /></td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>DevOps · Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" /></td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=github,git,idea,androidstudio,maven,postman&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="28" /></td>
+  </tr>
+  <tr>
+    <td width="130" align="center"><b>AI</b></td>
+    <td><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Kiro-9B5DE5?style=for-the-badge&logo=amazon&logoColor=white" height="28" /></td>
+  </tr>
+</table>
 
 <br>
 
@@ -145,7 +98,7 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/eventor-site"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=110&section=header&text=Eventor&fontSize=36&fontColor=ffffff" width="100%" /></a>
-      <br><sub>이벤트 · 핫딜 정보 커뮤니티</sub><br><br>
+      <br><sub>이벤트 특가 할인 정보 커뮤니티</sub><br><br>
       <a href="https://github.com/eventor-site"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br><br>
     </td>
@@ -157,6 +110,21 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
     </td>
   </tr>
 </table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dlrudgjs104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlrudgjs104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=dlrudgjs104&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dlrudgjs104&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+
+</div>
 
 <br>
 
