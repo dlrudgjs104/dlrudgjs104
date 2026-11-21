@@ -92,39 +92,15 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
 
 ## 🚀 Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Trendist-Project"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff4d6d,100:7b2ff7&height=110&section=header&text=Trendist&fontSize=36&fontColor=ffffff" width="100%" /></a>
-      <br><sub>REST API · WebSocket 게임 서버 · 배치</sub><br><br>
-      <a href="https://github.com/Trendist-Project"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <br><br>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/coin-sensor"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f7931a,100:c2410c&height=110&section=header&text=CoinSensor&fontSize=36&fontColor=ffffff" width="100%" /></a>
-      <br><sub>실시간 암호화폐 급등 탐지 대시보드</sub><br><br>
-      <a href="https://github.com/coin-sensor"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/eventor-site"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=110&section=header&text=Eventor&fontSize=36&fontColor=ffffff" width="100%" /></a>
-      <br><sub>이벤트 특가 할인 정보 커뮤니티</sub><br><br>
-      <a href="https://github.com/eventor-site"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <br><br>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/nhnacademy-be6-5ritang"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:238636,100:065f46&height=110&section=header&text=Bookstore&fontSize=36&fontColor=ffffff" width="100%" /></a>
-      <br><sub>NHN Academy 온라인 서점 팀 프로젝트</sub><br><br>
-      <a href="https://github.com/nhnacademy-be6-5ritang"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <br><br>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Trendist-Project"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff4d6d,100:7b2ff7&height=220&section=header&text=Trendist&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=REST%20API%20%C2%B7%20WebSocket%20%EA%B2%8C%EC%9E%84%20%EC%84%9C%EB%B2%84%20%C2%B7%20%EB%B0%B0%EC%B9%98&descSize=30&descAlignY=68&descColor=ffffffcc" width="48%" alt="Trendist" /></a>
+<a href="https://github.com/coin-sensor"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f7931a,100:c2410c&height=220&section=header&text=CoinSensor&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90%20%EA%B8%89%EB%93%B1%20%ED%83%90%EC%A7%80%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C&descSize=30&descAlignY=68&descColor=ffffffcc" width="48%" alt="CoinSensor" /></a>
+
+<a href="https://github.com/eventor-site"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=220&section=header&text=Eventor&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%8A%B9%EA%B0%80%20%ED%95%A0%EC%9D%B8%20%EC%A0%95%EB%B3%B4%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0&descSize=30&descAlignY=68&descColor=ffffffcc" width="48%" alt="Eventor" /></a>
+<a href="https://github.com/nhnacademy-be6-5ritang"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:238636,100:065f46&height=220&section=header&text=Bookstore&fontSize=60&fontColor=ffffff&fontAlignY=34&desc=NHN%20Academy%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%84%9C%EC%A0%90%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&descSize=30&descAlignY=68&descColor=ffffffcc" width="48%" alt="Bookstore" /></a>
+
+</div>
 
 <br>
 
