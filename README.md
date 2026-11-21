@@ -43,9 +43,9 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
 
 <div align="center">
 
-<p><img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-8957e5?style=for-the-badge&logo=checkmarx&logoColor=white" height="46" /></p>
+<p><img src="https://img.shields.io/badge/-%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-161b22?style=for-the-badge&labelColor=1f6feb&logo=hackthebox&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-161b22?style=for-the-badge&labelColor=8957e5&logo=checkmarx&logoColor=white" height="40" /></p>
 
-<p><img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-238636?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="46" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white" height="46" /></p>
+<p><img src="https://img.shields.io/badge/-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-161b22?style=for-the-badge&labelColor=0891b2&logo=cisco&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-161b22?style=for-the-badge&labelColor=238636&logo=microsoftexcel&logoColor=white" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-161b22?style=for-the-badge&labelColor=2b579a&logo=microsoftword&logoColor=white" height="40" /></p>
 
 </div>
 
@@ -56,23 +56,23 @@ focus:     AI · Backend · Frontend · Cloud / DevOps
 <table width="100%">
   <tr>
     <td width="130" align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="28" /></td>
+    <td><img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="30" /> <img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" height="30" /> <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" height="30" /> <img src="https://img.shields.io/badge/Thymeleaf-161b22?style=for-the-badge&logo=thymeleaf&logoColor=3fb950" height="30" /> <img src="https://img.shields.io/badge/JSP-161b22?style=for-the-badge&logo=openjdk&logoColor=58a6ff" height="30" /></td>
   </tr>
   <tr>
     <td width="130" align="center"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" height="30" /> <img src="https://img.shields.io/badge/MariaDB-161b22?style=for-the-badge&logo=mariadb&logoColor=58a6ff" height="30" /> <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" height="30" /> <img src="https://img.shields.io/badge/Elasticsearch-161b22?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3" height="30" /></td>
   </tr>
   <tr>
     <td width="130" align="center"><b>DevOps · Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="30" /> <img src="https://img.shields.io/badge/NHN%20Cloud-161b22?style=for-the-badge&logo=cloudflare&logoColor=00A95C" height="30" /> <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="30" /> <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="30" /> <img src="https://img.shields.io/badge/GitHub%20Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="30" /> <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" height="30" /> <img src="https://img.shields.io/badge/On--Premise-161b22?style=for-the-badge&logo=serverfault&logoColor=8b949e" height="30" /></td>
   </tr>
   <tr>
     <td width="130" align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=github,git,idea,androidstudio,maven,postman&theme=dark" height="40" />&nbsp;<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="28" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=e6edf3" height="30" /> <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" height="30" /> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-161b22?style=for-the-badge&logo=intellijidea&logoColor=e6edf3" height="30" /> <img src="https://img.shields.io/badge/Android%20Studio-161b22?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" height="30" /> <img src="https://img.shields.io/badge/Maven-161b22?style=for-the-badge&logo=apachemaven&logoColor=C71A36" height="30" /> <img src="https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=FF6C37" height="30" /> <img src="https://img.shields.io/badge/JMeter-161b22?style=for-the-badge&logo=apachejmeter&logoColor=D22128" height="30" /></td>
   </tr>
   <tr>
     <td width="130" align="center"><b>AI</b></td>
-    <td><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Kiro-9B5DE5?style=for-the-badge&logo=amazon&logoColor=white" height="28" /></td>
+    <td><img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=D97757" height="30" /> <img src="https://img.shields.io/badge/ChatGPT-161b22?style=for-the-badge&logo=openai&logoColor=74AA9C" height="30" /> <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" height="30" /> <img src="https://img.shields.io/badge/Kiro-161b22?style=for-the-badge&logo=amazon&logoColor=9B5DE5" height="30" /></td>
   </tr>
 </table>
 
