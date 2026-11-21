@@ -102,21 +102,21 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
 <table>
   <tr>
     <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-CERTIFIED-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white" />
+      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white" height="42" />
     </td>
     <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-CERTIFIED-8957e5?style=for-the-badge&logo=checkmarx&logoColor=white" />
+      <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-8957e5?style=for-the-badge&logo=checkmarx&logoColor=white" height="42" />
     </td>
     <td align="center" >
-      <img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-CERTIFIED-0891b2?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B4%80%EB%A6%AC%EC%82%AC%202%EA%B8%89-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="42" />
     </td>
   </tr>
   <tr>
     <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-CERTIFIED-238636?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%ED%99%9C%EC%9A%A9%EB%8A%A5%EB%A0%A5%201%EA%B8%89-238636?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="42" />
     </td>
     <td align="center" >
-      <img src="https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-CERTIFIED-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white" />
+      <img src="https://img.shields.io/badge/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-2b579a?style=for-the-badge&logo=microsoftword&logoColor=white" height="42" />
     </td>
   </tr>
 </table>
@@ -132,14 +132,12 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Trendist-Project"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff4d6d,100:7b2ff7&height=110&section=header&text=Trendist&fontSize=36&fontColor=ffffff" width="100%" /></a>
       <br><sub>REST API · WebSocket 게임 서버 · 배치</sub><br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /><br><br>
       <a href="https://github.com/Trendist-Project"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/coin-sensor"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f7931a,100:c2410c&height=110&section=header&text=CoinSensor&fontSize=36&fontColor=ffffff" width="100%" /></a>
       <br><sub>실시간 암호화폐 급등 탐지 대시보드</sub><br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img src="https://img.shields.io/badge/Vue-35495e?style=flat-square&logo=vuedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br><br>
       <a href="https://github.com/coin-sensor"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br><br>
     </td>
@@ -148,14 +146,12 @@ focus:     Spring Boot · REST API · Cloud / DevOps · AI
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/eventor-site"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0891b2,100:1f6feb&height=110&section=header&text=Eventor&fontSize=36&fontColor=ffffff" width="100%" /></a>
       <br><sub>이벤트 · 핫딜 정보 커뮤니티</sub><br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /><br><br>
       <a href="https://github.com/eventor-site"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/nhnacademy-be6-5ritang"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:238636,100:065f46&height=110&section=header&text=Bookstore&fontSize=36&fontColor=ffffff" width="100%" /></a>
       <br><sub>NHN Academy 온라인 서점 팀 프로젝트</sub><br><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" /><img src="https://img.shields.io/badge/NHN_Cloud-00A95C?style=flat-square&logo=cloudflare&logoColor=white" /><br><br>
       <a href="https://github.com/nhnacademy-be6-5ritang"><img src="https://img.shields.io/badge/View_Repository-→-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
       <br><br>
     </td>
